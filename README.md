@@ -1,10 +1,11 @@
-# ScreenShift
+ScreenShift
+===========
 A simple app to change screen resolution, density and overscan of Android devices.
 
-<a href="https://play.google.com/store/apps/details?id=com.sagar.screenshift2">
-  <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
-</a>
+<a href="https://f-droid.org/packages/com.sagar.screenshift2/" target="_blank">
+<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="90"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.sagar.screenshift2" target="_blank">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
 
 Uses the following adb commands before JellyBean 4.3:
 
@@ -19,7 +20,7 @@ From JellyBean 4.3 and up, this has been shifted to wm, with additional overscan
 
 Needs root in JB 4.3 and higher versions.
 
-#Screenshots
+# Screenshots
 <img src="https://raw.githubusercontent.com/aravindsagar/ScreenShift/gh-pages/images/screenshots/screenshot_main.png"> <img src="https://raw.githubusercontent.com/aravindsagar/ScreenShift/gh-pages/images/screenshots/screenshot_about.png">
 <img src="https://raw.githubusercontent.com/aravindsagar/ScreenShift/gh-pages/images/screenshots/screenshot_confirm.png"> <img src="https://raw.githubusercontent.com/aravindsagar/ScreenShift/gh-pages/images/screenshots/screenshot_profile.png">
 
@@ -27,7 +28,7 @@ Needs root in JB 4.3 and higher versions.
 Visit <a href="http://forum.xda-developers.com/android/apps-games/app-screen-shift-change-screen-t3138718">XDA thread</a>, and
 <a href="http://aravindsagar.github.io/ScreenShift/">http://aravindsagar.github.io/ScreenShift/</a>
 
-#License
+# License
 
 Copyright 2014 Aravind Sagar
 
